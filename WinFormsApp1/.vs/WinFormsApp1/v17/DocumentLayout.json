@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-ii\\u6\\discoappu6\\winformsapp1\\winformsapp1\\discodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\discodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-ii\\u6\\discoappu6\\winformsapp1\\winformsapp1\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-ii\\u6\\discoappu6\\winformsapp1\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-ii\\u6\\discoappu6\\winformsapp1\\winformsapp1\\estilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\estilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-ii\\u6\\discoappu6\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEB44110-8FA8-44D3-8CF3-9E8F7473DA1E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscoData.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\DiscoData.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DiscoData.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\DiscoData.cs",
+              "RelativeToolTip": "WinFormsApp1\\DiscoData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:43:46.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estilo.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Estilo.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Estilo.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Estilo.cs",
+              "RelativeToolTip": "WinFormsApp1\\Estilo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:58:05.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form2.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:51:39.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Disco.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Disco.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Disco.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Disco.cs",
+              "RelativeToolTip": "WinFormsApp1\\Disco.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:29:46.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:33:07.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Form2.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "WinFormsApp1\\Form2.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:49:15.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:06:01.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
