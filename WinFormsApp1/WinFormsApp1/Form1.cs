@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.DataFormats;
+using Negocio;
 
 namespace WinFormsApp1
 {
@@ -37,6 +38,38 @@ namespace WinFormsApp1
         private void buttonCloseWindowIndex_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void verEstilosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            foreach (var item in Application.OpenForms)
+            {
+
+                if (item.GetType() == typeof(Form3))
+                {
+                    MessageBox.Show("ya esta una ventana abierta");
+                    return;
+                }
+            }
+
+            Form3 windowViewFormDB = new Form3();
+            windowViewFormDB.Show();
+        }
+
+        private void verEdicionesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            foreach (var item in Application.OpenForms)
+            {
+
+                if (item.GetType() == typeof(Form4))
+                {
+                    MessageBox.Show("ya esta una ventana abierta");
+                    return;
+                }
+            }
+
+            Form4 windowViewFormDB = new Form4();
+            windowViewFormDB.Show();
         }
     }
 }

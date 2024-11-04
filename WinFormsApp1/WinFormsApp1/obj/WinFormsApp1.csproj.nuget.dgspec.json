@@ -4,6 +4,40 @@
     "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
+    "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Dominio\\Dominio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Dominio\\Dominio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Negocio\\Negocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Negocio\\Negocio.csproj",
+        "projectName": "Negocio",
+        "projectPath": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Negocio\\Negocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Dominio\\Dominio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,7 +62,14 @@
         "frameworks": {
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Dominio\\Dominio.csproj"
+              },
+              "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Negocio\\Negocio.csproj": {
+                "projectPath": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-II\\u6\\discoAppU6\\WinFormsApp1\\Negocio\\Negocio.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

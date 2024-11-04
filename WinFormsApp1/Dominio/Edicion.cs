@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WinFormsApp1
+namespace Dominio
 {
-    internal class Estilo
+    public class Edicion
     {
+
         public int Id { get; set; }
 
         public string Descripcion { get; set; }
@@ -16,6 +17,7 @@ namespace WinFormsApp1
         {
             return Descripcion;
         }
+
 
     }
 }
